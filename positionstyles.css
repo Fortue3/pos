@@ -59,6 +59,8 @@
   width: 100px; 
   height: 100px; 
   background-color: blue; 
+  grid-row: 4;
+  grid-column: 4;
 } 
 /* Activity 3 styles */ 
 .content3 {
